@@ -3,7 +3,7 @@
 Занимаюсь разработкой на Java. Обучался на проекте [Job4j](https://job4j.ru/). Люблю сложные задачи и активно изучаю новые технологии.
 
 #### Стек технологий:
-> Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Docker, Kubernetes, Kafka
+> Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Docker, Kubernetes, Kafka, AWS
 
 #### Мои проекты на JAVA :mortar_board: :
 1. [WEB-Сервис для сокращения ссылок](https://github.com/kva-devops/url_shortcut) (JDK14, Maven, Spring Boot, PostgreSQL, Liquibase, JWT, Docker, K8s)
