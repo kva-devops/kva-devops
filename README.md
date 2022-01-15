@@ -8,7 +8,7 @@
 #### Мои проекты на JAVA :mortar_board: :
 1. [WEB-Сервис для сокращения ссылок](https://github.com/kva-devops/url_shortcut) (JDK14, Maven, Spring Boot, PostgreSQL, Liquibase, JWT, Docker, K8s)
 2. [Интернет-Форум с регистрацией пользователей](https://github.com/kva-devops/job4j_forum) (JDK14, Maven, Spring Boot, PostgreSQL, Docker, K8s)
-3. Проект "Автонарушители". Ссылка на ваш heroku.
+3. [Приложение "CarAccident" для регистрации проишествий](https://github.com/kva-devops/job4j_car_accident) (JDK14, Spring, PostgreSQL, Hibernate)
 4. Проект. "Работа мечты"
 5. Проект. "JMS - Pooh"
 6. Проект "TODO лист". Работа через REST API. 
