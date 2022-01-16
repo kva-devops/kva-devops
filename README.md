@@ -10,7 +10,7 @@
 2. [Интернет-Форум с регистрацией пользователей](https://github.com/kva-devops/job4j_forum) (JDK14, Maven, Spring Boot, PostgreSQL, Docker Compose, K8s)
 3. [Приложение "CarAccident" для регистрации проишествий](https://github.com/kva-devops/job4j_car_accident) (JDK14, Spring, PostgreSQL, Hibernate, Docker Compose, K8s)
 4. [Web-Приложение по поиску работы](https://github.com/kva-devops/job4j_dreamjob) (JDK14, Maven, Servlet, PostgreSQL, JSTL, JS, AJAX, Mockito)
-5. Проект. "JMS - Pooh"
+5. [Проект. "Асинхронная очередь"](https://github.com/kva-devops/job4j_pooh) (JDK14, Maven, Junit, Sockets, Java Concurrency, Java IO)
 6. Проект "TODO лист". Работа через REST API. 
 7. Проект "Cinema".
 8. Проект "grabber сайта вакансий".
