@@ -12,8 +12,8 @@
 4. [Web-Приложение по поиску работы](https://github.com/kva-devops/job4j_dreamjob) (JDK14, Maven, Servlet, PostgreSQL, JSTL, JS, AJAX, Mockito)
 5. [Проект. "Асинхронная очередь"](https://github.com/kva-devops/job4j_pooh) (JDK14, Maven, Junit, Sockets, Java Concurrency, Java IO)
 6. [Приложение TODO List - планировщик задач](https://github.com/kva-devops/todo) (JDK14, Maven, Java Servlet, HTML, JSP, JSTL, PostgreSQL, Hibernate, Junit)
-7. Проект "Cinema".
-8. Проект "grabber сайта вакансий".
+7. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
+8. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
 9. Утилиты zip, find.
 10. Проект "Tracker". 
 
