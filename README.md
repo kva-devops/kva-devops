@@ -15,6 +15,6 @@
 7. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
 8. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
 9. Утилиты zip, find.
-10. Проект "Tracker". 
+10. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
