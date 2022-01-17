@@ -10,11 +10,11 @@
 2. [Интернет-Форум с регистрацией пользователей](https://github.com/kva-devops/job4j_forum) (JDK14, Maven, Spring Boot, PostgreSQL, Docker Compose, K8s)
 3. [Приложение "CarAccident" для регистрации проишествий](https://github.com/kva-devops/job4j_car_accident) (JDK14, Spring, PostgreSQL, Hibernate, Docker Compose, K8s)
 4. [Web-Приложение по поиску работы](https://github.com/kva-devops/job4j_dreamjob) (JDK14, Maven, Servlet, PostgreSQL, JSTL, JS, AJAX, Mockito)
-5. [Проект. "Асинхронная очередь"](https://github.com/kva-devops/job4j_pooh) (JDK14, Maven, Junit, Sockets, Java Concurrency, Java IO)
-6. [Приложение TODO List - планировщик задач](https://github.com/kva-devops/todo) (JDK14, Maven, Java Servlet, HTML, JSP, JSTL, PostgreSQL, Hibernate, Junit)
-7. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
-8. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
-9. Утилиты zip, find.
+5. [Приложение "Чат с комнатами"](https://github.com/kva-devops/job4j_chat) (JDK14, Maven, Spring Boot, Spring Data, PostgreSQL, REST API, JWT-авторизация)
+6. [Проект. "Асинхронная очередь"](https://github.com/kva-devops/job4j_pooh) (JDK14, Maven, Junit, Sockets, Java Concurrency, Java IO)
+7. [Приложение TODO List - планировщик задач](https://github.com/kva-devops/todo) (JDK14, Maven, Java Servlet, HTML, JSP, JSTL, PostgreSQL, Hibernate, Junit)
+8. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
+9. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
 10. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
