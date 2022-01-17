@@ -12,9 +12,10 @@
 4. [Web-Приложение по поиску работы](https://github.com/kva-devops/job4j_dreamjob) (JDK14, Maven, Servlet, PostgreSQL, JSTL, JS, AJAX, Mockito)
 5. [Приложение "Чат с комнатами"](https://github.com/kva-devops/job4j_chat) (JDK14, Maven, Spring Boot, Spring Data, PostgreSQL, REST API, JWT-авторизация)
 6. [Проект. "Асинхронная очередь"](https://github.com/kva-devops/job4j_pooh) (JDK14, Maven, Junit, Sockets, Java Concurrency, Java IO)
-7. [Приложение TODO List - планировщик задач](https://github.com/kva-devops/todo) (JDK14, Maven, Java Servlet, HTML, JSP, JSTL, PostgreSQL, Hibernate, Junit)
-8. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
-9. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
-10. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
+7. [Web-приложение Cars - площадка по продаже авто](https://github.com/kva-devops/job4j_cars) (JDK14, Maven, PostgreSQL, Java Servlet, JSP, JSTL, Hibernate, Junit)
+8. [Приложение TODO List - планировщик задач](https://github.com/kva-devops/todo) (JDK14, Maven, Java Servlet, HTML, JSP, JSTL, PostgreSQL, Hibernate, Junit)
+9. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
+10. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
+11. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
