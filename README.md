@@ -5,7 +5,7 @@
 #### Стек технологий:
 > Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Docker, Docker Compose, Kubernetes, Kafka, AWS, Mockito, REST API
 
-#### Мои проекты на JAVA :mortar_board: :
+#### Основные проекты на JAVA :open_file_folder:
 1. [WEB-Сервис для сокращения ссылок](https://github.com/kva-devops/url_shortcut) (JDK14, Maven, REST API, Spring Boot, PostgreSQL, Liquibase, JWT, Docker Compose, K8s)
 2. [Интернет-Форум с регистрацией пользователей](https://github.com/kva-devops/job4j_forum) (JDK14, Maven, Spring Boot, PostgreSQL, Docker Compose, K8s)
 3. [Приложение "CarAccident" для регистрации проишествий](https://github.com/kva-devops/job4j_car_accident) (JDK14, Spring, PostgreSQL, Hibernate, Docker Compose, K8s)
@@ -17,5 +17,7 @@
 9. [Web-приложение "Онлайн Касса кинотеатра](https://github.com/kva-devops/job4j_cinema) (JDK14, Maven, PostgreSQL, Java Servlet, JDBC, Junit, HTML, JS).
 10. [Проект "Парсер вакансий" - парсинг web-сайтов](https://github.com/kva-devops/job4j_grabber) (JDK14, Maven, PostgreSQL, JDBC, Junit, JSOUP, Quartz)
 11. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
+
+#### Разные учебные проекты на Java :mortar_board:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
