@@ -19,5 +19,7 @@
 11. [Проект "Менеджер заявок - Tracker"](https://github.com/kva-devops/job4j_tracker) (JDK14, Maven, PostgreSQL, Hibernate, Liquibase, Java SE, JDBC, Mockito, JUnit4) 
 
 #### Разные учебные проекты на Java :mortar_board:
+1. [Работа Spring-приложения в реактивном режиме](https://github.com/kva-devops/weather_reactive) (JDK14, Maven, Spring Boot, Spring WebFlux, REST API)
+2. [Асинхронное взаимодействие микросервисов через Kafka](https://github.com/kva-devops/microservice) (JDK14, Maven, PostgreSQL, Liquibase, Spring Boot (Web, Data, Kafka), Java Servlet, Microservices, Kafka, Zookeeper)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
