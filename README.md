@@ -1,6 +1,8 @@
-### Привет :raised_hand: Меня зовут Владимир
+### Привет :raised_hand:
 
-Я занимаюсь разработкой на Java. Обучался на проекте [Job4j](https://job4j.ru/). Люблю сложные задачи и активно изучаю новые технологии.
+
+В данный момент занимаюсь разработкой на Java. Обучался на проекте [Job4j](https://job4j.ru/). Люблю сложные задачи и активно изучаю новые технологии. 
+
 
 #### Стек технологий:
 > Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Bash, Docker, Docker Compose, Kubernetes, Kafka, AWS, Ansible, Jenkins, Mockito, REST API, Git
