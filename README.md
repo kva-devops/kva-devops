@@ -2,7 +2,7 @@
 
 
 В данный момент занимаюсь разработкой на Java. Обучался на проекте [Job4j](https://job4j.ru/). Люблю сложные задачи и активно изучаю новые технологии. 
-Самый простой способ связаться со мной - это телеграм @kutiavinvladimir
+Самый простой способ связаться со мной - это телеграм @kutiavinvladimir или скайп tribuna87
 
 #### Стек технологий:
 > Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Bash, Docker, Docker Compose, Kubernetes, Kafka, AWS, Ansible, Jenkins, Mockito, REST API, Git
