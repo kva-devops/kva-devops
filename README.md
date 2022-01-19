@@ -5,13 +5,7 @@
 Самый простой способ связаться со мной - это телеграм @kutiavinvladimir или скайп tribuna87
 
 #### Стек технологий:
-* Java 8+, Maven
-* Spring (Core, Boot, Data, Security, Cloud)
-* PostgreSQL, Liquibase, Hibernate
-* Linux, Bash, Git
-* Docker, Docker Compose, Kubernetes, Ansible, Jenkins, AWS, Travis CI
-* HTML5, CSS, JS
-* Junit, Mockito
+> Java 8+, Maven, Spring (Core, Boot, Data, Security, Cloud), Hibernate, PostgreSQL, HTML5, CSS, JS, Linux, Bash, Docker, Docker Compose, Kubernetes, Kafka, AWS, Ansible, Jenkins, Mockito, REST API, Git
 
 #### Основные проекты на JAVA :open_file_folder:
 1. [WEB-Сервис для сокращения ссылок](https://github.com/kva-devops/url_shortcut) (JDK14, Maven, REST API, Spring Boot, PostgreSQL, Liquibase, JWT, Docker Compose, K8s)
