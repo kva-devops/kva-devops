@@ -8,10 +8,11 @@
 * Java 8+, Maven
 * Spring (Core, Boot, Data, Security, Cloud)
 * PostgreSQL, Liquibase, Hibernate
-* Linux, Bash, Git
+* Linux, Bash, Git, GitLab
 * Docker, Docker Compose, Kubernetes, Ansible, Jenkins, AWS, Travis CI
 * HTML5, CSS, JS
 * Junit, Mockito
+* YouTrack
 
 #### Основные проекты на JAVA :open_file_folder:
 1. [WEB-Сервис для сокращения ссылок](https://github.com/kva-devops/url_shortcut) (JDK14, Maven, REST API, Spring Boot, PostgreSQL, Liquibase, JWT, Docker Compose, K8s)
