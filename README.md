@@ -33,4 +33,7 @@
 3. [Демонстрация работы Service Discovery](https://github.com/kva-devops/job4j_discovery) (JDK14, Maven, SpringBoot, SpringCloudEurekaServer, SpringCloudEurekaClient, REST API)
 4. [Взаимодействие REST-сервисов с помощью RestTemplate](https://github.com/kva-devops/job4j_rest) (JDK14, Maven, PostgreSQL, Spring Boot (Web, Data), Junit)
 
+#### Разные тестовые задания:
+[REST-сервис для определения разницы в курсах валют за определенный промежуток времени](https://github.com/kva-devops/alfatest) (Java 11+, Gradle, Spring (Boot, Cloud), Lombok, Junit, Log4j, Docker, REST)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kva-devops&hide=stars,prs,issues,contribs)
