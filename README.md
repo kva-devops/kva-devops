@@ -1,6 +1,6 @@
 ### Hi! :raised_hand:
 
-I am developing in Java. Studied on the [Job4j](https://job4j.ru/) project. I have experience in commercial development and work in a distributed team. I like complex tasks and actively study new technologies. The easiest way to contact me is telegram @kutiavinvladimir
+I am developing in Java. I have experience in commercial development and work in a distributed team. I like complex tasks and actively study new technologies. The easiest way to contact me is telegram @kutiavinvladimir
 
 #### Technology stack:
 * Java 8+, Maven, Gradle
